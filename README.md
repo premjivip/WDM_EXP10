@@ -1,6 +1,6 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### NAME: PREMJI P
-### DATE: 30-04-2024
+### DATE: 27-04-2024
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -28,8 +28,8 @@
 
 ### Output:
 
-Name: R.HEMAPRIYA
-Register No: 212221230036
+Name: PREMJI P
+Register No: 212221043004
 
 ![326148171-563e2378-9c07-4478-aab2-f9ba8bb61917](https://github.com/RuchithaReddy28/WDM_EXP10/assets/93427261/a44bba5f-f404-4e78-ab4d-c62212624eb2)
 ![326148180-70b5c021-0de6-4dbe-8503-d545e5072c57](https://github.com/RuchithaReddy28/WDM_EXP10/assets/93427261/cecbdd5c-72e8-4e3f-a25d-3cf368f27845)
